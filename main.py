@@ -45,7 +45,7 @@ from telegram.constants import ParseMode
 # ═══════════════════════════════════════════════════════════════════════
 
 # 🔑 Your Telegram Bot Token from @BotFather
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8893174784:AAELv6Cep-QR1JKrDwNOe8g8wDAozirO8RE"
 
 # 👤 Bot Owner Info
 OWNER_USERNAME = "frexy1only"
